@@ -1,0 +1,11 @@
+{
+  "name": "binary_search_by_rs",
+  "version": "1.0.0",
+  "description": "A easy binary Search function for you ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rivansh",
+  "license": "ISC"
+}
